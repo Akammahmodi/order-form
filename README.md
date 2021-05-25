@@ -48,8 +48,8 @@ Use the mail() function in PHP to send an e-mail with a summary of the order. Th
 ## Tips
 * You can use filter_var($email, FILTER_VALIDATE_EMAIL) to filter for e-mails.
 * To check if an input is a number you can use is_numeric($number)
-* If the mail() function doesn't work you might need to install sendmail
+* If the mail() function doesn't work you might need to install [sendmail]
 * When you are stuck try to run the function whatIsHappening(), it might provide you with information how to access your input data. Or even better: use xdebug!
-* If you want to beter understand sessions, go to the php.net documentation.
+* If you want to beter understand sessions, go to the [php.net documentation.]
 * Do not use private browsing during this excersise, it will make it more difficult to get everything working.
 * You do not set cookies the same way you set other variables. Google how to do it!
