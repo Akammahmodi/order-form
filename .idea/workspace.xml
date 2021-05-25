@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1d35773-79bd-41a2-83cf-6a91f9dbda59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/form-view.php" beforeDir="false" afterPath="$PROJECT_DIR$/form-view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="orderform.local" id="4f22ab00-ff13-4df1-b61b-b396a5c66353" name="orderform.local" />
+      <server host="phpdebugging.local" id="22a6e6b1-7917-4968-ade7-8489a3d4743a" name="phpdebugging.local">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="C:/Xampp/htdocs/myproject/php-debugging" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\Xampp\htdocs\myproject\" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8" />
+  <component name="ProjectId" id="1sptOuO5BKPFIesK7lWQycQNVLZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1d35773-79bd-41a2-83cf-6a91f9dbda59" name="Default Changelist" comment="" />
+      <created>1621581330667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621581330667</updated>
+      <workItem from="1621581333011" duration="17656000" />
+      <workItem from="1621724287907" duration="56000" />
+      <workItem from="1621724347997" duration="695000" />
+      <workItem from="1621769177541" duration="9000" />
+      <workItem from="1621769191064" duration="2273000" />
+      <workItem from="1621771516360" duration="1166000" />
+      <workItem from="1621772724571" duration="1281000" />
+      <workItem from="1621774022859" duration="23925000" />
+      <workItem from="1621926586515" duration="18209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
