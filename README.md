@@ -1,9 +1,9 @@
 # Title: Order form
-⋅⋅* Repository: php-order-form
-⋅⋅*Type of Challenge: Learning challenge
-⋅⋅* Duration: 3 days
-⋅⋅*Deployment strategy : NA
-⋅⋅* Team challenge : solo
+* Repository: php-order-form
+* Type of Challenge: Learning challenge
+* Duration: 3 days
+* Deployment strategy : NA
+* Team challenge : solo
 # Learning objectives
 Be able to tell the difference between the superglobals $_GET, $_POST, $_COOKIE and $_SESSION variable.
 Be able to write basic validation for PHP.
